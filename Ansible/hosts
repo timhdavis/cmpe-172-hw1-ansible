@@ -1,0 +1,6 @@
+[webservers:vars]
+ansible_ssh_private_key_file=./aws-ec2-key1.pem.txt 
+
+[webservers]
+52.15.187.34
+
